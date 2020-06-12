@@ -16,8 +16,8 @@ jsproxy_config({
       label: '演示服务-香港节点',
       lines: {
         // 主机:权重
-        'node-aliyun-hk-1.etherdream.com:8443': 1,
-        'node-aliyun-hk-2.etherdream.com:8443': 2,
+        'node-aliyun-hk-1.187Chen.com:8443': 1,
+        'node-aliyun-hk-2.187Chen.com:8443': 2,
       }
     },
     'mysite': {
@@ -32,7 +32,7 @@ jsproxy_config({
       hidden: true,
       lines: {
         // 收费版（高权重）
-        //'node-cfworker-2.etherdream.com': 4,
+        //'node-cfworker-2.187Chen.com': 4,
 
         // 免费版（低权重，分摊一些成本）
         // 每个账号每天 10 万次免费请求，但有频率限制
