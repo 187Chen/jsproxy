@@ -16,8 +16,8 @@ jsproxy_config({
       label: '演示服务-香港节点',
       lines: {
         // 主机:权重
-        'node-aliyun-hk-1.187Chen.com:8443': 1,
-        'node-aliyun-hk-2.187Chen.com:8443': 2,
+        'node-aliyun-hk-1.etherdream.com:8443': 1,
+        'node-aliyun-hk-2.etherdream:8443': 2,
       }
     },
     'mysite': {
